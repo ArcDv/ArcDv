@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML/CSS/Javascript
 - 💞️ I’m looking to collaborate on Begginer friendly projects.
 - 📫 How to reach me <br>
-- <a href="https://www.facebook.com/profile.php?id=100009502861740"> My Facebook </a> <br>
+- <a href="https://www.facebook.com/profile.php?id=100009502861740" target="_blank"> My Facebook </a> <br>
 - angeloranola090314@gmail.com <br>
 - +639386980548
 
